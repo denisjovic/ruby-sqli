@@ -4,7 +4,7 @@ db = SQLite3::Database.open 'test.db'
 
 query = params[:user][:id]
 
-user = User.where("id = '#{user2}'")
+user = User.where("id = '#{query}'")
 
 
 
