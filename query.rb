@@ -1,1 +1,4 @@
-$query = params[:user][:name]
+def get_query
+    $query = params[:user][:name]
+    return $query
+end

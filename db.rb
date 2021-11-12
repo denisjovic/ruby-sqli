@@ -1,3 +1,7 @@
 require 'sqlite3'
 
-$db = SQLite3::Database.open 'test.db'
+def get_db
+    db = SQLite3::Database.open 'test.db'
+    return db
+
+end
