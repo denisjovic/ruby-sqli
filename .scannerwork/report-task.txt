@@ -3,5 +3,5 @@ projectKey=ruby-sqli
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.24741
 dashboardUrl=https://sonarcloud.io/dashboard?id=ruby-sqli
-ceTaskId=AX0UlZ--LlFIuyykiFiN
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX0UlZ--LlFIuyykiFiN
+ceTaskId=AX0UojU6-tVpxbXpma-g
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX0UojU6-tVpxbXpma-g
